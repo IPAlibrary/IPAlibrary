@@ -15,3 +15,26 @@ Yes, however not all IPA libraries can be trusted. However, before downloading a
 You can also self-research the Library using reviews and social media. But, happily, we are here to provide the most secure iPA files, so you do not have to worry about iPhone privacy and other issues. 
 We implemented an innovative algorithm for IPA search and trained AI to verify factors in the IPA file. For example, we decrypt the iPA file and inspect each file and folder for malware and unneeded device access, among other things. 
 
+For easy navigation, we have categories for the IPA files. Here are the main categories:
+
+- TrollStore IPA FIles
+- Tweaked IPA FIles
+- Jailbreak IPA Files
+- Games
+- Music Apps
+- Emulators
+
+### TrollStore IPA Files: 
+
+This repository contains the updated TrollStore IPA files. These files are primarily associated with.TiPA format. However, you can use some of them as conventional iPA files by just renaming the extension.iPA. TrollStore is a popular iPA signing tool that allows you to sign an IPA file with an iOS bug. So the major benefit of using iPA installer is that you don't have to resign or reinstall iPA files due to protect revocation. 
+
+This permasigned jailed app can permanently install any IPA using an AMFI/CoreTrust bug. The biggest disadvantage of this Signer is the limited iOS version compatibility. 
+
+The TrollStore is supported for: 14.0 beta 2 - 16.6.1, 16.7 RC (20H18), 17.0. So, if your device is running the latest iOS version, it is not currently supported. However, you can resolve the issue by installing TrollStore Alternative.
+
+[Download Trollstore IPA Files](https://ipa.zeejb.com/trollstore.php)
+
+
+
+
+
